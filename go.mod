@@ -1,3 +1,3 @@
-module sqleyes
+module work
 
 go 1.19
