@@ -1,9 +1,0 @@
-[submodule "sqleyes"]
-	path = sqleyes
-	url = git@github.com:sqleyes/sqleyes.git
-[submodule "engine"]
-	path = engine
-	url = git@github.com:sqleyes/engine.git
-[submodule "plugin-postgresql"]
-	path = plugin-postgresql
-	url = git@github.com:sqleyes/plugin-postgresql.git
