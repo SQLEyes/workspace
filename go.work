@@ -3,4 +3,5 @@ use (
 	./engine
 	./sqleyes
 	./plugin-postgresql
+	./plugin-mysql
 )

@@ -7,3 +7,6 @@
 [submodule "engine"]
 	path = engine
 	url = https://github.com/sqleyes/engine.git
+[submodule "plugin-mysql"]
+	path = plugin-mysql
+	url = https://github.com/sqleyes/plugin-mysql.git
